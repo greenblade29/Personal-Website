@@ -1,0 +1,149 @@
+body {
+  font-family: "Barrio", sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  display: block;
+  font-size: 1.75rem;
+  height: 40rem;
+}
+
+.heading-text{
+  left: 15%;
+  position: relative;
+  top: 40%;
+}
+
+.peephole {
+  position: relative;
+  left: 45rem;
+  top: 10rem;
+  height: 80%;
+}
+
+.container-1{
+   padding-left: 2rem;
+   height: 20rem;
+}
+
+.beware{
+  color: red;
+  font-size: 1.5rem;
+  position: relative;
+  left: 45rem;
+  bottom: 13rem;
+}
+
+.warning-text {
+  bottom: 10rem;
+  display: block;
+  left: 30rem;
+  font-size: 2rem;
+  font-weight: bold;
+  position: relative;
+}
+
+.container-2 {
+  background-color: #a6e3e9;
+  height: 400px;
+}
+
+.mystery{
+  display: block;
+  font-size: 2rem;
+  position: relative;
+  left: 5rem;
+  top: 4rem;
+  font-weight: bold;
+}
+
+.fool{
+  font-size: 1.5rem;
+  position: absolute;
+  left: 5rem;
+  top: 70rem;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.questions{
+  color: Olive;
+  position: absolute;
+  top: 73rem;
+  left: 6rem;
+  line-height: 2;
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+
+.sneaky{
+  display: inline-block;
+  height: 15rem;
+  position: relative;
+  left: 55rem;
+  top:2rem;
+}
+
+.powers-link:visited{
+  text-decoration: none;
+  color: black;
+}
+
+.powers-link:link{
+  text-decoration: none;
+  color:black;
+}
+
+
+.powers-link:hover{
+  text-decoration: none;
+  color: red;
+}
+
+.hide{
+  height: 20rem;
+  display: inline-block;
+  position: relative;
+  left: 15rem;
+}
+
+.no-one{
+  display: inline-block;
+  position: relative;
+  left: 30rem;
+  bottom: 10rem;
+}
+
+.last {
+  background-color: #71c9ce;
+  height: 600px;
+}
+
+.the-end{
+  display: block;
+  height: 20rem;
+  position: relative;
+  left: 25rem;
+  padding-bottom: 2rem;
+}
+
+.end-text{
+  position: relative;
+  left: 15rem;
+}
+
+.copyright {
+color: #EAF6F6;
+font-size: 1rem;
+position: relative;
+left: 30rem;
+padding: 20px 0;
+top: 5rem;
+}
